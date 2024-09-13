@@ -13,3 +13,7 @@ function save() {
     countEl.innerText = 0
     count = 0
 }
+
+function reset() {
+    saveEl.innerText= 'history counts:';
+}

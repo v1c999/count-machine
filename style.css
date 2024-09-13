@@ -1,0 +1,55 @@
+body {
+    font-family: "Bungee", sans-serif;
+    background-color: #d5eeff;
+}
+
+.title {
+    text-align: center;
+    font-size: 40px;
+}
+
+.count-el {
+    text-align: center;
+}
+
+.box {
+    text-align: center;
+    background-color: #feffdf;
+    width: 300px;
+    height: 400px;
+    padding: 10px;
+    margin: 0 auto;
+}
+
+.button-incre,
+.button-save {
+    font-family: "Bungee", sans-serif;
+}
+.button-incre{
+    padding: 10px 20px 10px 20px;
+    border-radius: 10px;
+    border: none;
+    background-color: #bbe4e9;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.button-save {
+    padding: 10px 45px;
+    border: none;
+    margin-bottom: 10px;
+    font-size: 20px;
+    border-radius: 10px;
+    background-color:#e4f1fe;
+}
+
+.count {
+    font-family: "Bungee", sans-serif;
+    font-size: 50px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.history {
+    font-family: "Bungee", sans-serif;
+}
